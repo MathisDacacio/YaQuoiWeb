@@ -13,7 +13,7 @@ export default function ProfilePage() {
         {users.length > 0 ? (
           <ul>
             {users.map(user => (
-              <li key={user.id}>{user.name} - {user.email}</li>
+              <li key={user.id}>{user.nom} - {user.email}</li>
             ))}
           </ul>
         ) : (

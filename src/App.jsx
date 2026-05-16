@@ -1,5 +1,5 @@
 import Header from './Components/Header/Header'
-import AppRoutes from './Components/Routes/AppRoutes'
+import AppRoutes from './Components/Global/AppRoutes'
 
 
 export default function App() {

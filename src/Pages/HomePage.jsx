@@ -1,4 +1,4 @@
-import { useHelmet } from '../Components/Routes/seoConfig'
+import { useHelmet } from '../Components/Global/seoConfig'
 import CardList from '../Components/CardList/CardList'
 
 export default function HomePage() {
